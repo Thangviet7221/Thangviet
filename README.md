@@ -1,0 +1,2 @@
+# Thangviet
+print("hello world")
